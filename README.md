@@ -8,9 +8,6 @@
 <p align="center" width="300">
   <h2 align="center">Mis habilidades Técnicas Destacadas 👇🏻</h3>
   <p align="center" width="300">
-  <img src="./javascript.png">
-  <img src="./javascript.png">
-
   <img src="./javascript.png" >
   <img src="./html.png">
   <img src="./css.png">
