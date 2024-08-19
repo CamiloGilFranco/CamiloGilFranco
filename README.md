@@ -30,7 +30,7 @@
 <p align="center" width="300">
 <h2 align="center">Conóceme un Poco Mas 😁</h3>
   <p align="center" width="300">
-    <a href="https://www.camilogilfranco.tech/" target="_blank">
+    <a href="https://www.camilogilfranco.com/" target="_blank">
       <img src="./portafolio.png">
     </a>
     <a href="https://www.linkedin.com/in/adrian-camilo-gil-franco/" target="_blank">
